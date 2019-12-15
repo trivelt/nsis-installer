@@ -1,0 +1,1 @@
+print("Some application component")
